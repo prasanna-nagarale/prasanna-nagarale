@@ -6,6 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://prasanna-nagarale.github.io/prasanna-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanna-ai)
+[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/prasanna030)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagaraleprasanna@gmail.com)
 
 </div>
@@ -87,6 +88,15 @@ NLP • Intent Classification • Conversational AI
 Intelligent banking chatbot with **94% intent classification accuracy**, handling 15+ query categories with sub-300ms response time. Supports both voice and text modes.
 
 **Tech:** NLTK, spaCy, TensorFlow, Python
+
+---
+
+### 🧠 [Phi-2 Financial Sentiment Analyzer](https://huggingface.co/prasanna030/phi2-financial-sentiment-lora)
+Fine-tuned LLM • QLoRA • Hugging Face
+
+Fine-tuned Microsoft's Phi-2 (2.7B params) for financial sentiment analysis with natural language reasoning. Used parameter-efficient QLoRA on 4,000 financial news samples. **Published on Hugging Face** with complete model card and usage examples.
+
+**Tech:** Phi-2, QLoRA, PEFT, Transformers, PyTorch
 
 ---
 
