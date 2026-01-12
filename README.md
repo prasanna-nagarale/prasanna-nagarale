@@ -97,21 +97,6 @@ Automated HDR processor merging multi-exposure images with 90% professional-grad
 
 **Tech:** OpenCV, NumPy, Python, Tone Mapping Algorithms
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Prasanna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prasanna-nagarale&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prasanna-nagarale&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prasanna-nagarale&theme=radical&hide_border=true)
-
-</div>
-
----
 
 ## 💼 Professional Experience
 
