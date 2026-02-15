@@ -155,7 +155,7 @@ I'm always open to collaborating on interesting AI/ML projects or discussing the
 - 📱 Phone: +91 9448178417
 ## 📄 Resume
 
-👉 **[Click here to view/download my Resume](./Prasanna_Nagarale_Resume.pdf)**
+👉 **[Click here to view/download my Resume](./Prasanna%20Nagarale%20-%20AI.pdf)**
 
 ---
 
