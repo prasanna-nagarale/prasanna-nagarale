@@ -153,6 +153,9 @@ I'm always open to collaborating on interesting AI/ML projects or discussing the
 - 🌐 Portfolio: [prasanna-nagarale.github.io/prasanna-portfolio](https://prasanna-nagarale.github.io/prasanna-portfolio/)
 - 📧 Email: nagaraleprasanna@gmail.com
 - 📱 Phone: +91 9448178417
+## 📄 Resume
+
+👉 **[Click here to view/download my Resume](./Prasanna_Nagarale_Resume.pdf)**
 
 ---
 
