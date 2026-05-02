@@ -1,53 +1,77 @@
-<h1 align="center">Hey, I'm Prasanna 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI Engineer · LLM Systems · RAG Pipelines · Production Deployments</b><br/>
-  <i>I build AI that ships — not just demos.</i>
-</p>
+# Prasanna Nagarale
+### Building AI that ships — not just AI that demos
 
-<p align="center">
-  <a href="https://prasanna-nagarale.github.io/prasanna-portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/prasanna-ai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://huggingface.co/prasanna030"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-  <a href="mailto:nagaraleprasanna@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://prasanna-nagarale.github.io/prasanna-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prasanna-ai)
+[![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)](https://huggingface.co/prasanna030)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nagaraleprasanna@gmail.com)
+
+</div>
 
 ---
 
-## 🚀 What I've Shipped
+## 🧠 Who I Am
 
-| Project | What it does | Impact |
-|---|---|---|
-| [WordRift AI](https://wordriftai.com) 🟢 LIVE | GenAI writing platform — paraphrasing, grammar, translation, AI detection | 500+ users · 92% accuracy · 75% faster |
-| [QueryFox AI](https://github.com/prasanna-nagarale/QueryFoxAi) | RAG + agentic routing · FAISS · LangGraph · Groq (Llama 3) | <2s response · 5+ file formats |
-| [Phi-2 Financial Sentiment](https://huggingface.co/prasanna030/phi2-financial-sentiment-lora) 🤗 | Fine-tuned 2.7B LLM with QLoRA for financial NLP | Published on Hugging Face |
-| [Math Mentor AI](https://github.com/prasanna-nagarale/Math_Mentor_AI) | Multi-agent JEE math tutor · RAG · 5+ specialized agents | Multimodal input |
-| [Crop Recommendation](https://github.com/prasanna-nagarale/Crop-Recommendation-System) | ML classifier · Random Forest · 22 crop types | 99.3% accuracy |
-| [HDR Enhancement System](https://github.com/prasanna-nagarale/HDR_Image_Enhancement_System) | Computer vision · OpenCV · Debevec algorithm | 60% noise reduction · 2s processing |
+AI/ML Engineer focused on **Generative AI, RAG systems, and NLP** — currently building [WordRift AI](https://wordriftai.com), a full-stack AI writing platform live in production. I don't just train models; I ship them.
+
+- 🔭 **Now:** WordRift AI v2.0 · Advanced RAG pipelines · LLM fine-tuning
+- 🎯 **Stack:** LangChain · LangGraph · FastAPI · PyTorch · HuggingFace · Docker
+- 📍 Bangalore, India · Open to AI/ML roles & collaborations
+- 🤗 Fine-tuned models published on Hugging Face
 
 ---
 
 ## 🛠️ Tech Stack
 
-**AI/ML:** LLMs · RAG · LangChain · LangGraph · QLoRA · PEFT · Hugging Face · FAISS · Transformers (T5, BART, RoBERTa, Phi-2)
+**AI/ML**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-**Backend:** Python · FastAPI · Django · Flask · PostgreSQL · Celery · Docker · Nginx · Gunicorn
+**Backend & Infra**
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-**ML Frameworks:** PyTorch · TensorFlow · Scikit-learn · OpenCV · Sentence-Transformers · Pandas · NumPy
+---
 
-**Tools:** Git · Streamlit · Jupyter · Groq · VS Code
+## 🚀 Featured Projects
+
+| Project | What it does | Tech |
+|---|---|---|
+| [**WordRift AI**](https://wordriftai.com) 🔴 LIVE | Full-stack AI writing platform · 11 features · 92% accuracy | Django · T5/BART · PostgreSQL |
+| [**QueryFox AI**](https://github.com/prasanna-nagarale/QueryFoxAi) | RAG + agentic web routing · <2s response | FastAPI · LangGraph · FAISS · Groq |
+| [**Math Mentor AI**](https://github.com/prasanna-nagarale/Math_Mentor_AI) | Multimodal math agent · text + image + audio input | RAG · Multi-agent · HITL |
+| [**Phi-2 Financial Sentiment**](https://huggingface.co/prasanna030/phi2-financial-sentiment-lora) | Fine-tuned 2.7B LLM for finance · published on HF | QLoRA · PEFT · PyTorch |
+| [**NLP Banking Chatbot**](https://github.com/prasanna-nagarale/NLP-Banking-Chatbot) | 94% intent accuracy · voice + text · 15+ intents | spaCy · TensorFlow · NLTK |
+| [**Crop Recommendation**](https://github.com/prasanna-nagarale/Crop-Recommendation-System) | 99.3% accuracy · 22 crops · 2200+ samples | Random Forest · scikit-learn |
+
+---
 
 
+## 🎓 Background
 
-## 🎯 Currently
+**B.E. in AI & Machine Learning** · Basaveshwar Engineering College, Bagalkot (2021–2025)
 
-```python
-status = {
-    "open_to":    ["AI Engineer", "LLM Engineer", "GenAI Engineer", "ML Engineer"],
-    "location":   "Bangalore · Remote · Open to Relocation",
-    "building":   "Production-grade LLM & RAG systems",
-    "published":  "2 models on Hugging Face (Phi-2, GPT-2 QLoRA)",
-}
-```
+**Certifications:** Generative AI (Microsoft & LinkedIn) · ML with Python (IBM) · NLP (Infosys) · AI (Infosys)
 
-📩 **Reach me:** [nagaraleprasanna@gmail.com](mailto:nagaraleprasanna@gmail.com) · [LinkedIn](https://linkedin.com/in/prasanna-ai) · [Portfolio](https://prasanna-nagarale.github.io/prasanna-portfolio/)
+**Experience:** AI/ML Intern @ ClickCrawl Media Pvt. Ltd. · Feb–Jul 2025
+
+---
+
+<div align="center">
+
+### Let's build something intelligent.
+**Open to AI/ML roles, research collabs, and interesting problems.**
+
+[![Profile Views](https://komarev.com/ghpvc/?username=prasanna-nagarale&color=brightgreen&style=flat-square)](https://github.com/prasanna-nagarale)
+
+</div>
